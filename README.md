@@ -1,9 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Parsa%20Khattat&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=AI%20that%20learns%20%C2%B7%20and%20explains%20itself&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Parsa%20Khattat&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Machine%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20Reinforcement%20Learning&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student;Explainable+AI+%C2%B7+Computer+Vision;Reinforcement+Learning+%C2%B7+NLP;Models+that+work+on+real+photos%2C+not+just+clean+datasets" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Computer+Engineering+student;I+build+machine+learning+projects;Computer+vision+%C2%B7+RL+%C2%B7+NLP+%C2%B7+explainable+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -18,19 +18,13 @@
 
 ## 👋 About me
 
-I'm a **Computer Engineering student** building machine learning systems and testing them where it counts: on real data, not just on a clean test split.
+I'm a computer engineering student interested in machine learning. Most of my projects are in computer vision, reinforcement learning and explainable AI, with some NLP.
 
-> **Does the model still work when it leaves the notebook?**
-
-That question drives how I work. I generate my own data, build preprocessing that survives messy phone photos, evaluate honestly (including where the model fails), explain predictions with tools like Grad-CAM, and ship the result so anyone can try it.
-
-```
-data generation  →  training  →  evaluation  →  explanation  →  deployment
-```
+I like doing a project from start to finish: making the data, training the model, checking where it fails, and putting it somewhere people can try it. I also test my models on real phone photos instead of only on a clean test set.
 
 <br/>
 
-## 📊 By the numbers
+## 📊 Some numbers
 
 <div align="center">
 <table>
@@ -43,11 +37,11 @@ data generation  →  training  →  evaluation  →  explanation  →  deployme
 </table>
 </div>
 
-<sub>Details and honest caveats (for example, synthetic vs. real-photo performance) are in each project's README.</sub>
+<sub>Details and caveats (like synthetic vs. real-photo results) are in each project's README.</sub>
 
 <br/>
 
-## 🧭 How my projects work
+## 🧭 My usual workflow
 
 ```mermaid
 flowchart LR
@@ -61,7 +55,7 @@ flowchart LR
 
 <br/>
 
-## 🚀 Featured projects
+## 🚀 Projects
 
 ### 👁️ Computer Vision & Explainable AI
 
@@ -159,15 +153,13 @@ A deployed Flask web app for IELTS spelling practice. **[Try the live demo →](
 
 <br/>
 
-## 🧪 How I work
+## 🧪 How I try to work
 
-| | Principle | In practice |
-|---|---|---|
-| 🌍 | **Test on reality** | Phone photos and a Telegram bot, not just a held-out split |
-| 🔁 | **Reproducible** | Seeded, stratified splits, shared model definition, cached datasets, one-command evaluation |
-| 🔬 | **Diagnosable** | Debug views of the exact model input, confusion matrices, misclassification breakdowns |
-| 📝 | **Honest** | Every project documents its limitations and failure cases |
-| 🔐 | **Safe by default** | Bot tokens read from environment variables, never committed |
+- Test on real photos, not only on a held-out split
+- Use seeded splits and a shared model definition so results can be reproduced
+- Show what the model actually receives (debug images, confusion matrices)
+- Write limitations and failure cases in each README
+- Keep bot tokens in environment variables, never in the code
 
 <br/>
 
@@ -193,12 +185,12 @@ A deployed Flask web app for IELTS spelling practice. **[Try the live demo →](
 
 <br/>
 
-## 🌱 What I'm working on next
+## 🌱 Next
 
-- [ ] **Grad-CAM for the shape classifier**, so its explainability matches its name
-- [ ] **Deep Q-Network (DQN)** and learning-curve plots for the maze agent
-- [ ] **Transformer (BERT) vs. TF-IDF** comparison for the sentiment analyzer, plus a public deployment
-- [ ] **Finish the gesture-controlled TicTacToe** with an RL agent and a live demo
+- [ ] Add **Grad-CAM** to the shape classifier
+- [ ] Try a **Deep Q-Network (DQN)** on the maze and add learning-curve plots
+- [ ] Compare **BERT vs. TF-IDF** for sentiment analysis and deploy the app
+- [ ] Finish the gesture-controlled TicTacToe
 
 <br/>
 
@@ -213,7 +205,7 @@ A deployed Flask web app for IELTS spelling practice. **[Try the live demo →](
 
 <br/>
 
-## 📫 Let's connect
+## 📫 Contact
 
 <div align="center">
 
@@ -223,10 +215,6 @@ A deployed Flask web app for IELTS spelling practice. **[Try the live demo →](
 <!-- <a href="mailto:YOUR@EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> -->
 
 <br/><br/>
-
-<i>"I care more about models that work on real photos than models that get 99.9% on a clean test set."</i>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" width="100%" alt="footer"/>
 
